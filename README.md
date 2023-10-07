@@ -1,1 +1,1 @@
-# CodeClauseInternship_AnimalSpeciesPrediction
+# AnimalSpeciesPrediction
